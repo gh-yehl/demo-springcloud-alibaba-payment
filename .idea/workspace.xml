@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bc7965b-93f1-42a8-b6e5-25d4c595e1af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mN3LBB2avsnxNP9AEKEnnd0Y2f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-payment" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yehl.utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-payment" />
+      <recent name="D:\Learnings\Spring\demo-springcloud-alibaba-payment\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationBoot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yehl.ApplicationBoot" />
+      <module name="demo-springcloud-alibaba-payment" />
+      <option name="VM_PARAMETERS" value="-javaagent:$PROJECT_DIR$/../../../Software/apache-skywalking-apm-bin-es7/agent/skywalking-agent.jar -Dskywalking.agent.service_name=payment-service -Dskywalking.collector.backend_service=www.curvelife.top:11800" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yehl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApplicationBoot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bc7965b-93f1-42a8-b6e5-25d4c595e1af" name="Default Changelist" comment="" />
+      <created>1609320162124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609320162124</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609589070009">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="230" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1549.831@0.0.1549.831" timestamp="1609589070009" />
+    <state x="580" y="99" key="#com.intellij.ide.util.MemberChooser" timestamp="1609491614394">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="580" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1549.831@0.0.1549.831" timestamp="1609491614394" />
+    <state width="1506" height="291" key="GridCell.Tab.0.bottom" timestamp="1609595537600">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="291" key="GridCell.Tab.0.bottom/0.0.1549.831@0.0.1549.831" timestamp="1609595537600" />
+    <state width="1506" height="291" key="GridCell.Tab.0.center" timestamp="1609595537600">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="291" key="GridCell.Tab.0.center/0.0.1549.831@0.0.1549.831" timestamp="1609595537600" />
+    <state width="1506" height="291" key="GridCell.Tab.0.left" timestamp="1609595537599">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="291" key="GridCell.Tab.0.left/0.0.1549.831@0.0.1549.831" timestamp="1609595537599" />
+    <state width="1506" height="291" key="GridCell.Tab.0.right" timestamp="1609595537600">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="291" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1609595537600" />
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom" timestamp="1609484213136">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.bottom/0.0.1549.831@0.0.1549.831" timestamp="1609484213136" />
+    <state width="1506" height="264" key="GridCell.Tab.1.center" timestamp="1609484213136">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.center/0.0.1549.831@0.0.1549.831" timestamp="1609484213136" />
+    <state width="1506" height="264" key="GridCell.Tab.1.left" timestamp="1609484213135">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.left/0.0.1549.831@0.0.1549.831" timestamp="1609484213135" />
+    <state width="1506" height="264" key="GridCell.Tab.1.right" timestamp="1609484213136">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state width="1506" height="264" key="GridCell.Tab.1.right/0.0.1549.831@0.0.1549.831" timestamp="1609484213136" />
+    <state x="366" y="76" key="new project wizard" timestamp="1609321419094">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="366" y="76" key="new project wizard/0.0.1549.831@0.0.1549.831" timestamp="1609321419094" />
+    <state x="497" y="327" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1609665930319">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="497" y="327" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1549.831@0.0.1549.831" timestamp="1609665930319" />
+  </component>
+</project>
